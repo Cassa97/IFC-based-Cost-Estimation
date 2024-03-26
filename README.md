@@ -8,5 +8,5 @@ The FlowChart is:
 
 The IFC input compare to IFC output is:
 
-<img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/ca9057f4-37ce-4027-a879-4c882d02335e" width="500" >
-
+<img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/ca9057f4-37ce-4027-a879-4c882d02335e" width="250" >
+<img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/7a155183-c988-4942-a5ad-4b00cb793734" width="250" >
