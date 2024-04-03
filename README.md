@@ -12,6 +12,8 @@ The IFC input compare to IFC output is:
 
 <img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/ca9057f4-37ce-4027-a879-4c882d02335e" width="400" >
 
+<!-- Questa è una riga vuota -->
+
 The IFC file with the new relations between object entities and cost entities can be viewed via the USBIM viewer developed by ACCA at the following link.
 
-[GitHub](https://service.usbim.com/link/5ymDpiww2t1XQT1TTktGoAif)
+[Updated IFC model](https://service.usbim.com/link/5ymDpiww2t1XQT1TTktGoAif)
