@@ -4,13 +4,13 @@ The goal of the project is to create a dynamic query to query the model and crea
 
 The FlowChart is:
 
-<img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/290cd857-2868-4f0d-869b-ff3aa66d3181" width="500" >
+<img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/290cd857-2868-4f0d-869b-ff3aa66d3181" width="500" >  
 
 The IFC input compare to IFC output is:
 
 <img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/bfae4b4a-d4ba-4db1-a381-5ca807fa1096" width="400" >
 
-<img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/ca9057f4-37ce-4027-a879-4c882d02335e" width="400" >
+<img src="https://github.com/Cassa97/IFC-based-Cost-Estimation/assets/115898053/ca9057f4-37ce-4027-a879-4c882d02335e" width="400" >  
 <!-- Due spazi alla fine dell'elemento precedente seguiti da un ritorno a capo -->
 
 
